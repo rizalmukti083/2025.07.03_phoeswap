@@ -59,7 +59,7 @@
   },
   "overrides": {
     "@solana/spl-token": "^0.3.11",
-    "react": "$react",
-    "react-dom": "$react-dom"
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   }
 }
